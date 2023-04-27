@@ -1,0 +1,20 @@
+.movie-navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 10px 30px;
+}
+.movie-navbar h1 {
+  font-size: 50px;
+  color: aliceblue;
+  font-family: "Sacramento", cursive;
+}
+.movie-image {
+  width: 55px;
+  margin: 0 20px;
+  height: 55px;
+}
+.movie-image img {
+  width: 100%;
+  height: 100%;
+}

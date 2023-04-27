@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(19, 14, 44);
+  /* background-color: rgb(175, 90, 255); */
+}
+.App {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(19, 14, 44);
+  /* height: 200vh; */
+}
